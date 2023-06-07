@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Diabetic Retinopathy Detection Project</title>
+    <title> Diabetic Retinopathy Detection Project </title>
 </head>
 <body>
     <h1>Diabetic Retinopathy Detection Project</h1>
