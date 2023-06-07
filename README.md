@@ -2,9 +2,6 @@
  
 <!DOCTYPE html>
 <html>
-<head>
- <h1>Diabetic Retinopathy Detection Project</h1> 
-</head>
 <body>
     <h1>Diabetic Retinopathy Detection Project</h1>
     <p>Diabetic Retinopathy is an ocular disorder that can result in loss of vision and even blindness among individuals with diabetes. The condition specifically affects the blood vessels located in the retina. Therefore, it is really important to cure this disease and undergo specific treatment. It is crucial to diagnose diabetic retinopathy early and receive prompt medical treatment in order to prevent the serious consequences associated with the condition. This can help to minimize the harmful effects of diabetic retinopathy on vision and overall eye health.</p>
