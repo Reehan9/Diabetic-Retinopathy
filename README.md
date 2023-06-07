@@ -4,11 +4,6 @@
 <html>
 <head>
     <title>Diabetic Retinopathy Detection Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-     }
-   </style>
 </head>
 <body>
     <h1>Diabetic Retinopathy Detection Project</h1>
